@@ -5,7 +5,7 @@ I enjoy solving problems, building projects, and continuously improving my skill
 
 <b>🚀 About Me</b><br/>
 👀 Interested in Software Development & Problem Solving<br/>
-🌱 Currently learning C, C++, Python, JavaScript & Web Development<br/>
+🌱 Currently learning C, C++, C#, JavaScript & Web Development<br/>
 💞️ Looking to collaborate on Open Source & Interesting Projects<br/>
 📚 Always learning something new<br/>
 🎯 Goal: Become a skilled Full-Stack Developer<br/>
