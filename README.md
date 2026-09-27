@@ -1,7 +1,7 @@
-👋 Hi, I'm Rakibul Hasan
-💻 CSE Student | Programmer | Problem Solver
-I’m passionate about programming, software development, and learning new technologies.
-I enjoy solving problems, building projects, and continuously improving my skills.
+👋 Hi, I'm Rakibul Hasan<br/>
+💻 CSE Student | Programmer | Problem Solver<br/>
+I’m passionate about programming, software development, and learning new technologies.<br/>
+I enjoy solving problems, building projects, and continuously improving my skills.<br/>
 
 🚀 About Me
 👀 Interested in Software Development & Problem Solving
